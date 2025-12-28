@@ -123,7 +123,7 @@ int main() {
             break;
         }
         else {
-            system("cls");
+            system("clear");
             cout << "Invalid choice.\n";
         }
     }
